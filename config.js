@@ -21,7 +21,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/IXKqGnnqjO4HEliNwpTFs9";
 global.website=process.env.GURL || "https://chat.whatsapp.com/IXKqGnnqjO4HEliNwpTFs9" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.pinimg.com/564x/70/4f/79/704f790693cdac8cf970d992b9b7675a.jpg" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ" 
 
 
@@ -78,7 +78,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "💜",
   botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "Nella",
+  ownername:process.env.OWNER_NAME|| "[͇̿S̷͇͇̿̿d͇̿~͇̿A͇̿a͇̿r͇̿o̸͇͇̿̿n͇̿]",
 
 
   errorChat : process.env.ERROR_CHAT || "",
